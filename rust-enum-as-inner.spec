@@ -5,8 +5,8 @@
 %global crate enum-as-inner
 
 Name:           rust-%{crate}
-Version:        0.3.0
-Release:        2%{?dist}
+Version:        0.7.0
+Release:        1%{?dist}
 Summary:        Proc-macro for deriving inner field accessor functions on enums
 
 # Upstream license specification: MIT/Apache-2.0
